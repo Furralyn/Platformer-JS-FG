@@ -1,2 +1,2 @@
-# Platformer-JS-FG
-DIG3480 Project 2 Farrah Gembutis
+# JSPlatformer
+JS Platformer for DIG 3480C
